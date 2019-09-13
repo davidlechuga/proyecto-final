@@ -17,7 +17,7 @@ KODERBUTIN inyección de 80 mg
 
  
 	
-{{customText[Doctor|Doctora]}} {{accLname}} le agradezco mucho el interés en KODERBUTIN. En mi próxima visita estaré dando seguimiento a esta información.
+{customText[Doctor|Doctora]} {accLname} le agradezco mucho el interés en KODERBUTIN. En mi próxima visita estaré dando seguimiento a esta información.
 
 
 1. KODERBUTIN Información para prescribir Reg 78989787897897
